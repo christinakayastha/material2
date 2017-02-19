@@ -76,7 +76,7 @@ High level items planned for January 2017:
 | snackbar / toast |                           Available | [README][21] |   [#115][0115] |
 | select           |                           Available | [README][23] |   [#118][0118] |
 | textarea         |                           Available | [README][5]  |              - |
-| autocomplete     |                         In-progress |           -  |   [#117][0117] |
+| autocomplete     |                           Available | [README][24] |   [#117][0117] |
 | chips            |  Initial version, features evolving |           -  |   [#120][0120] |
 | theming          |   Available, need guidance overlays | [Guide][20]  |              - |
 | docs site        |   UX design and tooling in progress |           -  |              - |
@@ -116,6 +116,7 @@ High level items planned for January 2017:
 [21]: https://github.com/angular/material2/blob/master/src/lib/snack-bar/README.md
 [22]: https://github.com/angular/material2/blob/master/src/lib/dialog/README.md
 [23]: https://github.com/angular/material2/blob/master/src/lib/select/README.md
+[24]: https://github.com/angular/material2/blob/master/src/lib/autocomplete/README.md
 
 [0107]: https://github.com/angular/material2/issues/107
 [0119]: https://github.com/angular/material2/issues/119
